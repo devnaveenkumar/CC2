@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  background-color: lightcoral;
+  padding: 30px;
+  border: 0.1px solid white;
+  margin: 20px;
+}
+
+.day10{
+  display: flex;
+  justify-content: space-around;
+  background-color: lightseagreen;
+  padding: 30px;
+  border: 0.1px solid white;
+  margin: 20px;
+}
